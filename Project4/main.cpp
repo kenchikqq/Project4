@@ -11,4 +11,4 @@ int main() {
     std::cout << "Сказала: \"" << cowSays << "\"\n";
 
     return 0;
-}
+} 
